@@ -18,6 +18,7 @@
 /out/
 
 # production
+.open-next
 /build
 
 # misc
